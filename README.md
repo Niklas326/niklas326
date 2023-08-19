@@ -1,7 +1,7 @@
 # Hey There! 👋
 **I'm Niklas** - I'm a java developer. I'm interested in development. I work on random projects in my free time, a lot involving Discord!
 
-[![SkillIcons](https://skillicons.dev/icons?i=java,mongodb,redis)]<br/>
+![SkillIcons](https://skillicons.dev/icons?i=java,mongodb,redis)<br/>
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/741746562031419492?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/741746562031419492)
